@@ -24,7 +24,7 @@ It provides an interface for both the companies and the job seekers. The compani
 <b>FrameWorks Used:</b> ExpressJs for NodeJs and Antd, Bootstrap for frontend Designing
 
 ## Installation: 
-<b>1.</b>  import the job_hunt folder into your pc first. <br>
+<b>1.</b>  import the "job_hunt" folder first in your pc. <br>
 <b>2.</b>  Install all the important packages from the console in the "job_hunt" folder: <br>
    -  npm i npm <br>
    -  npm i nodemon <br>
